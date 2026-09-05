@@ -73,7 +73,7 @@
       <img
         src="./assets/becca-03.png"
         alt="Becca"
-        width="70%"
+        width="90%"
       >
     </td>
 
