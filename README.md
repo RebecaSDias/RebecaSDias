@@ -8,7 +8,6 @@
 <hr>
 
 <!-- CONNECT -->
-git add README.md
 <div align="center">
   <p>
     <a href="https://www.linkedin.com/in/rebeca-sirio-dias-77580b32b/" target="_blank">
