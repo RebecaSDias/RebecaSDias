@@ -8,7 +8,7 @@
 <hr>
 
 <!-- CONNECT -->
-
+git add README.md
 <div align="center">
   <p>
     <a href="https://www.linkedin.com/in/rebeca-sirio-dias-77580b32b/" target="_blank">
@@ -137,13 +137,6 @@
     <img src="https://img.shields.io/badge/Neuroscience-000000?style=flat-square" alt="Neuroscience">
     <img src="https://img.shields.io/badge/Game_Development-000000?style=flat-square" alt="Game Development">
   </p>
-
-  <hr>
-
-  <h3> ζ GITHUB ACTIVITY </h3>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=RebecaSDias&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&border_color=333333" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaSDias&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=AAAAAA&border_color=333333" alt="Top Languages">
 
   <hr>
 
